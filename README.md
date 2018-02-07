@@ -43,4 +43,3 @@
 * [Redux](http://cn.redux.js.org/index.html)
 * [Redux-saga](http://leonshi.com/redux-saga-in-chinese/index.html)
 
-更多学习文档请移步 [知识体系文档](http://gitlab.choicesoft.com.cn/doc/wiki/wikis/knowledge)
