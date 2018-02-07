@@ -1,4 +1,4 @@
-# 云账号中心 cloud_account（账号、商户、门店、权限、操作）
+# 数据处理系统
 ------------
 * 项目依赖React、Ant Design、DVA, 工程构建基于[roadhog](https://github.com/sorrycc/roadhog)
 
@@ -43,4 +43,3 @@
 * [Redux](http://cn.redux.js.org/index.html)
 * [Redux-saga](http://leonshi.com/redux-saga-in-chinese/index.html)
 
-更多学习文档请移步 [知识体系文档](http://gitlab.choicesoft.com.cn/doc/wiki/wikis/knowledge)
